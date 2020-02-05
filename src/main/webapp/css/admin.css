@@ -1,0 +1,29 @@
+.user-list {
+    width: 500px;
+    height: 600px;
+    margin: 4% auto auto;
+    border-width: 3px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 10px;
+    padding: 5px;
+    text-align: center;
+    font-style: oblique;
+    overflow: auto;
+}
+
+.user {
+    width: 500px;
+    height: 300px;
+    border-width: 3px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 10px;
+    margin: 50px auto auto;
+    padding: 10px;
+    text-align: left;
+}
+
+.user h2 {
+    text-align: center;
+}

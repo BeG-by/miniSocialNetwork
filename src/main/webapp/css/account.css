@@ -1,0 +1,47 @@
+.account {
+    width: 500px;
+    height: 220px;
+    border-width: 3px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 10px;
+    margin: 50px auto auto;
+    padding: 10px;
+    text-align: left;
+
+}
+
+.account h2, .chat h2 {
+    text-align: center;
+}
+
+.chat {
+    width: 800px;
+    height: 450px;
+    border-width: 3px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 10px;
+    margin: 50px auto auto;
+    padding: 10px;
+    text-align: left;
+    overflow: auto;
+}
+
+.chat textarea {
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+    font-size: 13px;
+    overflow: auto;
+    background-color: white;
+    color: black;
+}
+
+
+
+
+
+
+
+

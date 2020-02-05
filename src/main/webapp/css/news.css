@@ -1,0 +1,21 @@
+article {
+    padding-top: 40px;
+}
+
+.news {
+    width: 400px;
+    height: 400px;
+    margin: auto;
+    padding: 20px;
+    border: 1px black;
+}
+
+.news1 a, .news2 a {
+    font-size: 14px;
+    text-align: center;
+    color: black;
+    text-decoration: none;
+}
+
+
+

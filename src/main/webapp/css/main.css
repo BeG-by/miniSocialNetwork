@@ -1,0 +1,84 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    color: black;
+    font-style: oblique;
+    text-align: center;
+
+}
+
+h1 {
+    margin-top: 1px;
+    font-size: 40px;
+}
+
+.error {
+    margin: 13% auto auto;
+    font-size: 30px;
+    padding-bottom: 30px;
+}
+
+
+h2 {
+    font-size: 27px;
+    font-style: oblique;
+}
+
+p {
+    font-size: 14px;
+}
+nav {
+    width: 900px;
+    height: 50px;
+    border-width: 3px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 10px;
+    padding: 20px;
+    margin: auto;
+    text-align: center;
+}
+
+.login-form {
+    width: 450px;
+    margin: 13% auto auto;
+    border-width: 3px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 10px;
+    padding: 20px;
+    text-align: center;
+    font-style: oblique;
+}
+
+input {
+    width: 350px;
+    height: 30px;
+    margin-top: 5px;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 10px;
+    text-align: center;
+    font-style: oblique;
+    font-size: 14px;
+}
+
+button , .btn {
+    width: 250px;
+    height: 30px;
+    padding: 5px;
+    margin-top: 2px;
+    background-color: black;
+    border-radius: 10px;
+    border-color: white;
+    border-style: solid;
+    border-width: 2px;
+    font-size: 16px;
+    color: white;
+    font-style: oblique;
+}
+
+
+
+
